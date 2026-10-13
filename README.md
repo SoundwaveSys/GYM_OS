@@ -153,7 +153,7 @@ Your training should be personalized.
 
 **Prathamesh Mane**
 
-Building futuristic software experiences with AI, Web Development & Data Science.
+Buildings futuristic software experiences with AI, Web Development & Data Science.
 
 </div>
 
